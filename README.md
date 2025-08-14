@@ -1,6 +1,4 @@
-# KIIT-MARKETPLACE
-
-# KIIT Marketplace
+# KIIT-ECOSYSTEM
 
 A web-based marketplace for KIIT students to post, browse, and manage item listings.  
 The platform allows students to easily connect for buying and selling goods within the campus community.
